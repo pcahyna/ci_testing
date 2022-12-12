@@ -4,4 +4,4 @@
   hosts: all
 
   roles:
-    - linux-system-roles.ci-testing
+    - linux-system-roles.ci_testing
